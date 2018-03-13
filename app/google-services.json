@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881839275323",
+    "firebase_url": "https://imanews-1ab08.firebaseio.com",
+    "project_id": "imanews-1ab08",
+    "storage_bucket": "imanews-1ab08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881839275323:android:4f94a7f177233309",
+        "android_client_info": {
+          "package_name": "com.example.saksh.imanews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881839275323-bgf43151mojhqqkti2v884nkbeau4e2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saksh.imanews",
+            "certificate_hash": "22338ae5e3046335a6ea0e2c2fbaddcd12611cd6"
+          }
+        },
+        {
+          "client_id": "881839275323-6jjc40t4cjsh45qnmbh9d3fp2aigal6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQhSFQQ-swSjfUSZusy8zEGzda5odubTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881839275323-6jjc40t4cjsh45qnmbh9d3fp2aigal6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
